@@ -1,0 +1,11 @@
+{
+  "domain": "chmu_alerts",
+  "name": "ČHMÚ Výstrahy",
+  "version": "1.0.0",
+  "documentation": "https://github.com/tvoje-uzivatelske-jmeno/chmu_alerts",
+  "issue_tracker": "https://github.com/tvoje-uzivatelske-jmeno/chmu_alerts/issues",
+  "requirements": ["xmltodict"],
+  "dependencies": [],
+  "codeowners": ["@tvoje-uzivatelske-jmeno"],
+  "iot_class": "cloud_polling"
+}

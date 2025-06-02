@@ -1,0 +1,1 @@
+"""ČHMÚ Výstrahy - inicializace komponenty."""
